@@ -21,6 +21,7 @@ streamlit run app.py
 
 ![image](https://github.com/NirmalVignu/LangChain-Chat-with-PDF/assets/70325804/1b08f01d-2bc2-4fe7-b1ac-7ed0b3e3d20c)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://github.com/NirmalVignu/LangChain-Chat-with-PDF/assets/70325804/a1c39bd3-c7b7-415f-9e45-7e5376990dba)
 
